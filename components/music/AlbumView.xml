@@ -36,5 +36,6 @@
     <field id="albumData" type="node" alias="songList.MusicArtistAlbumData" />
     <field id="playSong" alias="songList.itemSelected" />
     <field id="instantMixSelected" alias="instantMix.selected" />
+    <field id="quickPlayNode" type="node" />
   </interface>
 </component>
